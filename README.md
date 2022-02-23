@@ -7,11 +7,11 @@
 
 ### Following Dr. Angela Yu.
 
-##### [Tindog Website]()
+##### [Tindog Website](https://janhavialekar.github.io/TinDog/)
 
     ->website similar to tinder.
     ->Skills: HTML, CSS, Bootstrap
-##### [CSS-My-Site]()
+##### [CSS-My-Site](https://janhavialekar.github.io/personal-site/)
 
     ->short intro.
     ->Skills: HTML, CSS
