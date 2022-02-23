@@ -7,17 +7,17 @@
 
 ### Following Dr. Angela Yu.
 
-##### [⭐️Tindog Website](https://parv3213.github.io/Web-development/TinDog/index.html)
+##### [Tindog Website]()
 
-    ->A beautiful front-end similar to tinder🔥
+    ->website similar to tinder.
     ->Skills: HTML, CSS, Bootstrap
-##### [CSS-My-Site](https://parv3213.github.io/Web-development/CSS-My-Site/index.html)
+##### [CSS-My-Site]()
 
-    ->About me! 👤
+    ->short intro.
     ->Skills: HTML, CSS
-##### [HTML_PERSONAL_SITES](https://parv3213.github.io/Web-development/Practice/HTML-Personal-Sites/)
+##### [HTML_PERSONAL_SITE]()
 
-    ->My resume 📃
+    ->Resume
     ->Skills: HTML, Basic CSS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
