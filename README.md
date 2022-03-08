@@ -19,6 +19,7 @@
 
     ->Resume
     ->Skills: HTML, Basic CSS
+![](https://komarev.com/ghpvc/?username=JanhaviAlekar&color=green)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janss_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janss_14" height="30" width="40" /></a>
