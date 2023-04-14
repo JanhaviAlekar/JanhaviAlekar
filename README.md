@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janhavi Alekar</h1>
 
-- 🌱 I’m currently learning **C/C++**
-
+- 🌱 I’m **C++** programmer and a web developer
+### [PORTFOLIO](https://janhavi-portfolio.netlify.app/)
 - 📫 How to reach me **janhavialekar@gmail.com**
 # Web-Development
 
