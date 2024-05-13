@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋, I'm Janhavi Alekar</h1>
 
-- 🌱 I’m **C++** programmer and a web developer
+- 🌱 I'm a Web developer.
+- ⚡ Exploring new technologies to conquer the world 
 ### [PORTFOLIO](https://janhavi-portfolio.netlify.app/)
 - 📫 How to reach me **janhavialekar@gmail.com**
-# Web-Development
 
-### Following Dr. Angela Yu.
+# 🎫 Top Projects
+##### [Ecommerce](https://lazy-apron-duck.cyclic.app/)
 
-##### [Tindog Website](https://janhavialekar.github.io/TinDog/)
+    ->Full stack ecommerce platform
+    ->Skills: ReactJs,Tailwind Css ,MongoDB, NodeJs ,ExpressJs
+##### [Prajwalan Website]()
 
-    ->website similar to tinder.
-    ->Skills: HTML, CSS, Bootstrap
-##### [CSS-My-Site](https://janhavialekar.github.io/personal-site/)
+    ->website for my college fest.
+    ->Skills: ReactJs ,Tailwind Css
+    
+##### [ICAESD](https://icasd24.netlify.app/)
 
-    ->short intro.
-    ->Skills: HTML, CSS
-##### [HTML_PERSONAL_SITE]()
+    ->A conference website of my college
+    ->Skills: ReactJs ,Tailwind Css
+##### [Portfolio](https://janhavi-portfolio.netlify.app/)
 
     ->Resume
-    ->Skills: HTML, Basic CSS
+    ->Skills: HTML,Css
 ![](https://komarev.com/ghpvc/?username=JanhaviAlekar&color=green)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
