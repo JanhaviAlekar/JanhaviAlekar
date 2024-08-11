@@ -6,7 +6,7 @@
 - 📫 How to reach me **janhavialekar@gmail.com**
 
 # 🎫 Top Projects
-##### [Ecommerce](https://lazy-apron-duck.cyclic.app/)
+##### [Ecommerce](https://ecommerce-deployed-0i4n.onrender.com/)
 
     ->Full stack ecommerce platform
     ->Skills: ReactJs,Tailwind Css ,MongoDB, NodeJs ,ExpressJs
